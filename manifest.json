@@ -1,0 +1,18 @@
+{
+  "front_page_id": 16,
+  "pages_built": 7,
+  "nav_items": [
+    [
+      "Who We Are",
+      "who-we-are.html"
+    ],
+    [
+      "Initiatives",
+      "initiatives.html"
+    ],
+    [
+      "Contact",
+      "contact.html"
+    ]
+  ]
+}
